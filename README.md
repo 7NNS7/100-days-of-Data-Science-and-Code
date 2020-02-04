@@ -8,3 +8,7 @@ Starting small. Created a hello world python program.
 # Day 2
 Started woring with pandas.
 Played around with a csv file.
+
+# Day 3
+Working on personal project.
+Will make repo public once project is completed.
