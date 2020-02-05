@@ -12,3 +12,6 @@ Played around with a csv file.
 # Day 3
 Working on personal project.
 Will make repo public once project is completed.
+
+# Day 4
+EDA on a dataset related to personal project.
