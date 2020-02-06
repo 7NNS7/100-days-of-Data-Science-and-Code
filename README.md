@@ -15,3 +15,6 @@ Will make repo public once project is completed.
 
 # Day 4
 EDA on a dataset related to personal project.
+
+# Day 5
+Implemented Logistic Regression on the dataset. (Personal Project)
