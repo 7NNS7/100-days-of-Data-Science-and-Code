@@ -1,6 +1,10 @@
 # 100-days-of-Data-Science-and-Code
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
+
+# Day 9
+Worked on diabetes dataset for a simple EDA and model building
+
 # Day 8 
 Worked on IBM Week 2 Machine Learning course - Polyomial Regression
 
