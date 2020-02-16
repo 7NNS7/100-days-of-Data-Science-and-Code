@@ -2,8 +2,12 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 13
+Worked on pro git, and proceeded with further parts of the project.
+
 # Day 12
 Woked on git hub cli and brushed around a little on coursera courses.
+
 # Day 11 
 More EDA on datasets for personal project
 
