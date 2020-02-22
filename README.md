@@ -2,6 +2,9 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 18
+Worked on personal project. More EDA on datasets.
+
 # Day 17
 Worked on Logistic Regression Coursera Week 3
 
