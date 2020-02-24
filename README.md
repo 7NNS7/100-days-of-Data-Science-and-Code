@@ -2,6 +2,9 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+#Day 20
+Implementation of DT in personal project with an accuracy of 91%.
+
 #Day 19
 Hands on experience with Transfer Learning.
 
