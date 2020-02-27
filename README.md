@@ -2,6 +2,9 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 23 
+Implemented Naive Bayes and SVM on personal project.
+
 # Day 22
 Machine Learning Specialization: A case study approach Week 1
 
