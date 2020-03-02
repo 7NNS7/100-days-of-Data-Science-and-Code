@@ -2,8 +2,29 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
-# Date 24
-Worked on Internship project (Regression, data cleaning and preprocessing)
+# Day 30
+Hackmania 3.0 : Built Recommendation system for farming using ML and IoT.
+Check repo Hackmania3.0-PESCE
+
+# Day 29 
+Hackmania 3.0 : Built Recommendation system for farming using ML and IoT.
+Check repo Hackmania3.0-PESCE
+
+# Day 28 
+Hackmania 3.0 : Built Recommendation system for farming using ML and IoT.
+Check repo Hackmania3.0-PESCE
+
+# Day 27
+Worked on internship project.(Wrote API, lil bit of data wrangling)
+
+#Day 26
+Worked on intership project (Regression, data cleaning and preprocessing)
+
+# Day 25
+Worked on ML specialization-Coursera
+
+# Day 24
+Worked on Internship project (Data collection and EDA)
 
 # Day 23 
 Implemented Naive Bayes and SVM on personal project.
@@ -22,6 +43,7 @@ Hands on experience with Transfer Learning.
 
 # Day 18
 Worked on personal project. More EDA on datasets.
+Check repo FYP-2020.
 
 # Day 17
 Worked on Logistic Regression Coursera Week 3
@@ -43,6 +65,7 @@ Woked on git hub cli and brushed around a little on coursera courses.
 
 # Day 11 
 More EDA on datasets for personal project
+Check repo FYP-2020.
 
 # Day 10
 Worked on Multiprocessing module in python
@@ -61,14 +84,15 @@ Unable to commit but studied Week 2 of IBM Machine Learning on Coursera
 
 # Day 5
 Implemented Logistic Regression on the dataset. (Personal Project)
-
+Check repo FYP-2020.
 
 # Day 4
 EDA on a dataset related to personal project.
+Check repo FYP-2020.
 
 # Day 3
 Working on personal project.
-Will make repo public once project is completed.
+Check repo FYP-2020.
 
 # Day 2
 Started woring with pandas.
