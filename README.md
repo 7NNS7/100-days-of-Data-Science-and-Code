@@ -2,6 +2,9 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 31 
+Started working on Deep Learning Specialization - Cousera
+
 # Day 30
 Hackmania 3.0 : Built Recommendation system for farming using ML and IoT.
 Check repo Hackmania3.0-PESCE
