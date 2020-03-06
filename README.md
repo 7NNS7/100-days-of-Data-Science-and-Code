@@ -2,7 +2,11 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+<<<<<<< HEAD
 # Dat 33
+=======
+# Day 33
+>>>>>>> e42674c00e34802baa088a7db4111be3e522626e
 Week - 1 Deep Learning Specialization - Coursera
 
 # Day 32
