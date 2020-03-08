@@ -2,6 +2,8 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 35
+Random Python Scripts and play-around with pandas.
 
 # Day 34
 Worken on sqlite and python connections and Week - 1 Deep Learning Specialization - Coursera
