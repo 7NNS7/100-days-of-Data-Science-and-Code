@@ -2,6 +2,13 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 40
+Repo : Code Dump
+Objective: Master git commands and understand workflow.
+
+# Day 39
+Worked on R for EDA and simple Linear Regression.
+
 # Day 38
 Worked on personal project under internship.
 
