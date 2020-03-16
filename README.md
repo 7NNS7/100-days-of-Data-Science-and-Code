@@ -2,8 +2,11 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 43
+Started Analytics Vidya Deep Learning Path.
+
 # Day 42 
-Git commmands, merge request and git checkout
+Git commmands, merge request and git checkout.
 
 # Day 41
 Worked on git and Deep Learning Coursera.
