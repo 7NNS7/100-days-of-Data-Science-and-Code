@@ -2,6 +2,12 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 47
+Random articles on Data Science.
+
+# Day 46
+Final Year Project
+
 # Day 45
 HackerEarth problems.
 
