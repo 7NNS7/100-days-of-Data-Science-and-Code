@@ -2,6 +2,9 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 49
+Worked on ARIMA and SARIMAX algos.
+
 # Day 48 
 Worked on deploying Flask app on GCP and serverless framework in AWS.
 
