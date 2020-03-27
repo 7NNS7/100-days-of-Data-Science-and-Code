@@ -3,7 +3,7 @@ Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
 # Day 54
-Worked on Apache Jmeter and load testing.
+Worked on Apache Jmeter and load testing and GCP on Coursera.
 
 # Day 53
 Worked on flask-Cors and FYP-2020.
