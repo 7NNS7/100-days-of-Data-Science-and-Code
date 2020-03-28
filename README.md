@@ -3,7 +3,7 @@ Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
 # Day 55
-GCP coursera and Dockers.
+Worked on GCP coursera and Dockers.
 
 # Day 54
 Worked on Apache Jmeter and load testing and GCP on Coursera.
