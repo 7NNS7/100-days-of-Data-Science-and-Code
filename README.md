@@ -2,6 +2,8 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 56
+Worked on Hadoop Basics, Dockers and Git cli
 # Day 55
 Worked on GCP coursera and Dockers.
 
