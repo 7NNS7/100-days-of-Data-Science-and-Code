@@ -2,6 +2,9 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 58
+Worked on EDA, flask apis and sentry integration. 
+
 # Day 57
 Worked on Sentry alarm system and Deep Learning.
 
