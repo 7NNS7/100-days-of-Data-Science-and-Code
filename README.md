@@ -2,6 +2,9 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 60
+Worked on Hadoop, GCP and Deep Learning theory. 
+
 # Day 59
 Worked on Transfer Learning theory and more EDA
 
