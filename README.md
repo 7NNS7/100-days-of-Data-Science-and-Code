@@ -2,6 +2,9 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 64
+Worked on Hadoop Framework, MapReduce and sentry.
+
 # Day 63
 Setup Hadoop local system (Hell lot of work: especially with windows)
 
