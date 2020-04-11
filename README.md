@@ -2,6 +2,9 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 66 
+Worked on Hadoop.
+
 # Day 65
 Worked on HDFS, MapReduce and Deep Learning
 
