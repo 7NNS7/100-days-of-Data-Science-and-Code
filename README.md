@@ -2,6 +2,9 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 73
+Worked on FYP-2020
+
 # Day 72
 Worked on FYP-2020
 
