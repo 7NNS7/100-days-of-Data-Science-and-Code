@@ -2,6 +2,9 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 78
+Worked on script to convert NASA hdf file to csv
+
 # Day 77
 Worked on NASA Satellite Data
 
