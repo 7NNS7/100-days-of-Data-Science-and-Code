@@ -2,6 +2,9 @@
 Commiting myself for 100 days of git, data science and code.<br/>
 I will work on Data Science, python scripts and personal projects for the next 100 days.
 
+# Day 87
+Worked on Transfer Learning
+
 # Day 86
 Worked on crontab and mongoDb and hdf files.
 
