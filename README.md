@@ -1,5 +1,8 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 90
+Worked on Selenium and Beautiful Soup.
+
 # Day 89
 Worked on CNNs and web scraping.
 
