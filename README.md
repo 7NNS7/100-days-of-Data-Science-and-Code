@@ -1,5 +1,8 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 92
+Worked on Selenium and CNNs
+
 # Day 91
 Worked on FYP-2020 and web scraping and CNNs.
 
