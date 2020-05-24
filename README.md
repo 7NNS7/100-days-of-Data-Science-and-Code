@@ -1,5 +1,8 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 94 
+Worked on CNNs and Transfer Learning
+
 # Day 93
 Worked on FYP - 2020
 
@@ -128,6 +131,7 @@ Worked on flask-Cors and FYP-2020.
 
 # Day 52
 HackerEarth Programs and dockers.
+
 # Day 51
 Worked on Docker, GCP and AWS.
 
