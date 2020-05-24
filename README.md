@@ -211,7 +211,7 @@ Check repo Hackmania3.0-PESCE
 # Day 27
 Worked on internship project.(Wrote API, lil bit of data wrangling)
 
-#Day 26
+# Day 26
 Worked on intership project (Regression, data cleaning and preprocessing)
 
 # Day 25
@@ -232,7 +232,7 @@ More work on FYP, naive bayes and SVM implementation.
 # Day 20
 Implementation of DT in personal project with an accuracy of 91%.
 
-#Day 19
+# Day 19
 Hands on experience with Transfer Learning.
 
 # Day 18
