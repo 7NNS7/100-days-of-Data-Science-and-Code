@@ -1,5 +1,8 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 95
+Selenium, Beautiful Soup, simple code snippets to save time
+
 # Day 94 
 Worked on CNNs and Transfer Learning
 
