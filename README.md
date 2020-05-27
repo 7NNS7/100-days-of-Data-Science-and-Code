@@ -1,7 +1,10 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 96
+Worked on Transfer Learning and Image Augumentation and Beautiful Soup
+
 # Day 95
-Selenium, Beautiful Soup, simple code snippets to save time
+Worked on Selenium, Beautiful Soup, simple code snippets to save time
 
 # Day 94 
 Worked on CNNs and Transfer Learning
