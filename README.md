@@ -1,5 +1,8 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 97
+Worked on NLP ,scrapy and Hadoop
+
 # Day 96
 Worked on Transfer Learning and Image Augumentation and Beautiful Soup
 
