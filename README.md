@@ -1,5 +1,8 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 98
+Worked on web crawler, scrapy.
+
 # Day 97
 Worked on NLP ,scrapy and Hadoop
 
