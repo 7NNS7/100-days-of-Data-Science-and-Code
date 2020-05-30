@@ -1,5 +1,9 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 100
+Worked on Scrapy.
+Check Repo Scrapy-Basics.
+
 # Day 99
 Worked on Scrapy.
 Check Scrapy-Basics Repo
