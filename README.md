@@ -1,5 +1,9 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 99
+Worked on Scrapy.
+Check Scrapy-Basics Repo
+
 # Day 98
 Worked on web crawler, scrapy.
 
