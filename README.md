@@ -1,5 +1,10 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 101
+Worked on theory realted to Machine Learning.
+
+### THE GRIND DON'T STOP ###
+
 # Day 100
 Worked on Scrapy.
 Check Repo Scrapy-Basics.
