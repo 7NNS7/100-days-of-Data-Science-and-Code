@@ -1,5 +1,8 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 102
+Worked on Scrapy
+
 # Day 101
 Worked on theory realted to Machine Learning.
 
