@@ -1,7 +1,10 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 104
+Worked on Scrapy.
+
 # Day 103
-Worked on XGBoost
+Worked on XGBoost.
 
 # Day 102
 Worked on Scrapy
