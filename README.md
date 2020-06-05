@@ -1,5 +1,8 @@
 # 100-days-of-Data-Science-and-Code
 
+# Day 105
+Theory on statistics. (Offline Learning)
+
 # Day 104
 Worked on Scrapy.
 
